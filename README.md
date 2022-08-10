@@ -1,1 +1,2 @@
 # Auto-result-scraper-using-selenium
+The auto result scraper is used to scrape the result from the website and it is used to represent the complete data which is scraped using selenium in the form of excel sheet.the obtained excel sheet contains the data in various sheets and a bargraph repesenting the total pass percentage.This project uses selenium in scraping the data and is used to repersent the complete analysis of student performance
